@@ -134,7 +134,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with 💫 by [Your Name]**
+**Made with 💫 by Dhruba**
 
 [⭐ Star this repo](https://github.com/your-username/floating-dots-website) if you found it helpful!
 
